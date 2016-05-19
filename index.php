@@ -13,7 +13,7 @@
   </style>
  </head>
  <body>
- <h1>Hello OpenShift!</h1>
+ <h1>Hello OpenShift!!!</h1>
 <?php
 error_reporting(E_ERROR);
 
